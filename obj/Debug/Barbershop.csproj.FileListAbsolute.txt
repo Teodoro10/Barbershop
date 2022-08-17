@@ -1,0 +1,192 @@
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\obj\Debug\Barbershop.csproj.AssemblyReference.cache
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\obj\Debug\Barbershop.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\obj\Debug\Barbershop.Properties.Resources.resources
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\obj\Debug\Barbershop.csproj.GenerateResource.cache
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\obj\Debug\Barbershop.csproj.CoreCompileInputs.cache
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\Barbershop.exe.config
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\Barbershop.exe
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\Barbershop.pdb
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\Google.Protobuf.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\MySql.Data.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\System.Buffers.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\System.Memory.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\ZstdNet.dll
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\Google.Protobuf.pdb
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\Google.Protobuf.xml
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\MySql.Data.xml
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\System.Buffers.xml
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\System.Memory.xml
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\obj\Debug\Barbershop.csproj.CopyComplete
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\obj\Debug\Barbershop.exe
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\obj\Debug\Barbershop.pdb
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\obj\Debug\Barbershop.Form1.resources
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\obj\Debug\Barbershop.Form2.resources
+C:\Users\felipe.tribeiro2\Documents\Logica\Barbershop\obj\Debug\Barbershop.Form3.resources
+C:\Users\felipe.tribeiro2\Downloads\Barbershop\obj\Debug\Barbershop.csproj.AssemblyReference.cache
+C:\Users\felipe.tribeiro2\Downloads\Barbershop\obj\Debug\Barbershop.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.tribeiro2\Downloads\Barbershop\obj\Debug\Barbershop.Form1.resources
+C:\Users\felipe.tribeiro2\Downloads\Barbershop\obj\Debug\Barbershop.Form2.resources
+C:\Users\felipe.tribeiro2\Downloads\Barbershop\obj\Debug\Barbershop.Properties.Resources.resources
+C:\Users\felipe.tribeiro2\Downloads\Barbershop\obj\Debug\Barbershop.csproj.GenerateResource.cache
+C:\Users\felipe.tribeiro2\Downloads\Barbershop\obj\Debug\Barbershop.csproj.CoreCompileInputs.cache
+C:\Users\felipe.tribeiro2\Downloads\Barbershop\obj\Debug\Barbershop.exe
+C:\Users\felipe.tribeiro2\Downloads\Barbershop\obj\Debug\Barbershop.pdb
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.csproj.AssemblyReference.cache
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.Form1.resources
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.Form2.resources
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.Properties.Resources.resources
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.csproj.GenerateResource.cache
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.csproj.CoreCompileInputs.cache
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.exe
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.pdb
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Barbershop.exe.config
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Barbershop.exe
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Barbershop.pdb
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\MySql.Data.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Buffers.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Memory.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\ZstdNet.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Google.Protobuf.pdb
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\MySql.Data.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Buffers.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Memory.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.Form1.resources
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.Form2.resources
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.Properties.Resources.resources
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.csproj.GenerateResource.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.csproj.CopyComplete
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.exe
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.pdb
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.Form3.resources
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.Form4.resources
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Barbershop.exe.config
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Barbershop.exe
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Google.Protobuf.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\MySql.Data.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Buffers.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Memory.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\ZstdNet.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Google.Protobuf.pdb
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\Google.Protobuf.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\MySql.Data.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Buffers.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Memory.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop\obj\Debug\Barbershop.csproj.CopyComplete
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.csproj.AssemblyReference.cache
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.Properties.Resources.resources
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.csproj.GenerateResource.cache
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.csproj.CoreCompileInputs.cache
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.exe
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.pdb
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Barbershop.exe.config
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Barbershop.exe
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Barbershop.pdb
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\MySql.Data.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Buffers.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Memory.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\ZstdNet.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Google.Protobuf.pdb
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Google.Protobuf.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\MySql.Data.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Buffers.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Memory.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.Form1.resources
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.Form2.resources
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.Form3.resources
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.Form4.resources
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.Properties.Resources.resources
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.csproj.GenerateResource.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.csproj.CopyComplete
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.exe
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.pdb
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Barbershop.exe.config
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Barbershop.exe
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Google.Protobuf.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\MySql.Data.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Buffers.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Memory.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\ZstdNet.dll
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Google.Protobuf.pdb
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Google.Protobuf.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\MySql.Data.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Buffers.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Memory.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.csproj.CopyComplete
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\bin\Debug\Barbershop.pdb
+C:\Users\Usuário\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.Form5.resources
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.fmr_Cadastro.resources
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.fmr_Data.resources
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.fmr_Produtos.resources
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.fmr_Menu.resources
+C:\Users\felipe.tribeiro2\OneDrive\Área de Trabalho\Barbershop - Copia\obj\Debug\Barbershop.fmr_Login.resources
